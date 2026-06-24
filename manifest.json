@@ -1,6 +1,6 @@
 {
-  "short_name": "Lis Galeria",
-  "name": "Lis Galeria kostki brukowej",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
